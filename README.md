@@ -19,7 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 # Eat-O
 Online Food Delivery App using flutter
 >>>>>>> 0ca9c145febeee83cb877c26c5811adae735e385
->>>>>>> Splash Screen
+
+
+ Splash Screen
 ![splash screen](https://user-images.githubusercontent.com/85672871/121516085-74534f80-ca0b-11eb-83af-45976563aaea.jpeg)
 
 Welcome page
