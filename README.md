@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# eato
-
+# Eato
 A new Flutter application.
 
 ## Getting Started
@@ -19,13 +18,13 @@ samples, guidance on mobile development, and a full API reference.
 # Eat-O
 Online Food Delivery App using flutter
 
-# Splash Screen
+### Splash Screen
 ![splash screen](https://user-images.githubusercontent.com/85672871/121516085-74534f80-ca0b-11eb-83af-45976563aaea.jpeg)
 
-# Welcome page
+### Welcome page
 ![welcome page](https://user-images.githubusercontent.com/85672871/121516226-9c42b300-ca0b-11eb-8210-aa2fa281b334.jpeg)
 
-Login screen
+### Login screen
 ![login screen](https://user-images.githubusercontent.com/85672871/121516283-aa90cf00-ca0b-11eb-9483-63201e700a1e.jpeg)
 
 ![signup screen](https://user-images.githubusercontent.com/85672871/121516329-b67c9100-ca0b-11eb-9e81-212dd6f6d609.jpeg)
